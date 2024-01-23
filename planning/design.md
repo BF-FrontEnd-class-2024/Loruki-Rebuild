@@ -1,17 +1,11 @@
 # Design
 
-## Project's design overview
-
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+We decided to have a simple page, we didn't make plan colors or anything else.
 
 ---
 
-## Wireframe(s)
+Below is our design
 
-> Include your wireframe(s) and link to wireframe
+> ## [wireframe source](https://excalidraw.com/#json=jq1CWS9epfVRAxvjF4acu,U6rvMokrFFodhaSXa9st7w)
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![wireframe source](/planning/loruki.svg)

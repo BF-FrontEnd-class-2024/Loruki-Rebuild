@@ -8,19 +8,22 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day | How  | The topic of discussion |
+| --- | :--: | ----------------------- |
+| Tue | Zoom | Create project planning |
+| Wed | Zoom | Coding                  |
+
+|
 
 ## Communication Channels
 
-how often will we get in touch on each channel, and what we will discuss there:
+How often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: All day
+- **Pull Requests**: End of Task
+- **GitHub Discussions** End of Task
+- **Slack/Discord**: All day
+- **Video Calls**: When required
 
 ---
 
@@ -28,17 +31,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day      | Tuesday | Wednesday |
+| -------- | :-----: | :-------: |
+| _Rodica_ | 9 - 17  |  9 - 17   |
+| _Ahmad_  | 9 - 17  |  9 - 17   |
+| _Sowmya_ | 9 - 17  |  9 - 17   |
+| _Samuel_ | 9 - 17  |  9 - 17   |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Rodica : _7h_;
+- Ahmad : _7h_;
+- Sowmya : _7h_;
+- Samuel : _7h_;
 
 ## Asking for Help
 
