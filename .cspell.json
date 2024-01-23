@@ -15,10 +15,15 @@
     "Verwijs",
     "Todos",
     "wireframe",
+    "Loruki",
     "Rodica",
     "Sowmya ",
     "Solopreneur",
-    "Loruki"
+    "Loruki",
+    "Sowmya",
+    "Rodica",
+    "Sowmya" ,
+    "Solopreneur"
   ],
   "ignorePaths": [
     "node_modules/**",

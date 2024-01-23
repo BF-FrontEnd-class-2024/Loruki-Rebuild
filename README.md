@@ -1,10 +1,10 @@
-# Name of project
+# Loruki Project
 
-> A longer description
+This project is for people who are looking for a cloud hosting service.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](Loruki Project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,23 +22,23 @@
 
 ## General info
 
-> A short description
+A simple website to help you find the best cloud hosting services.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/sho.png)
 
 ## Technologies
 
-- Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
-- `npm run start`
+- Clone the Repo
+  
+- `npm run install`
 
 ## Code Examples
 
@@ -51,14 +51,9 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
--
--
--
-
-To-do list:
-
--
--
+- Title
+- Navigation
+- Requesting demo
 
 ## Status
 
@@ -70,7 +65,13 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+- [Samuel](https://github.com/xamwell2)
+
+- [Ahmad](https://github.com/ahmadissa99)
+
+- [Rodica](https://github.com/rodicailciuc)
+
+- [Sowmya](https://github.com/SowmyaPuttaswamygowda)
 
 ## Instructions for use
 
