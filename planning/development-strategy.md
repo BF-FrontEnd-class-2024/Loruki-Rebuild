@@ -1,55 +1,119 @@
-# Project Name
+# Loruki-Rebuild
 
-<!-- describe your project -->
-
----
-
-## Setup
-
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+## We create a website for cloud hosting
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## 0. Setup
 
-## user story
+- Create an issue
+- Create a new a repo from the given template
+- Add collaborators
+- Protect the main branch
+- Clone the repo
+- Run npm install
+- Created a branch for each file
 
-<!-- each issue created from this section will have the `for: user story` label -->
+---
 
-> "as a ... i can ... so that ..."
+## 1. Title
 
-<!-- write any extra notes or description -->
+- As a user, I need to see the title of the page
+- This branch is merged to master branch after completion.
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+## Html
 
-### Logic: user story
+- Add header tag
+- Add h1 for the page title
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## CSS
 
-### Interface: user story
+- Add class centered-item to the header
+- make the display flex and add padding
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## 2. Logos
 
-### Interaction: user story
+### As a user I want to see logos of the page
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- This user story is developed on branch `logos`.
+- This branch is merged to `master` branch after completion.
 
-### Documentation: user story
+### Html
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add the `img`
+
+### Css
+
+- add class `logo-img` to both `img`
+- add `width` and `height`
+- add `keyframe`
+- add `hover`
+- add `color`
+
+## 3. Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `navbar`.
+- This branch is merged to `master` branch after completion.
+
+### Html
+
+- add two `nav`
+- add a `div` parent
+- add `a`
+- add text `About us` and `Contact us`
+
+### Css
+
+- add class `navigation-bar` to both `nav`
+- add display `flex`,
+- add `justify-contend`,
+- add `align-item-center`
+- add `border`
+
+## 4. Request demo card
+
+### HTMl
+
+- Div
+- Input field
+- Button
+
+### Css
+
+- Color all the items
+- Align the items to center
+- Use media query
+
+## 5. Social media links
+
+### As a user I want to see social media links to contact the website owner
+
+- This user story is developed on branch `socialMedia-links`.
+- This branch is merged to `master` branch after completion.
+
+### Html
+
+- add `footer`
+- add links for `facebook`, `Instagram`, `Tweeter`
+- add `a`
+
+### Css
+
+- add class `social-media-links`
+- add `flex`
+- add `justify-contend`
+- add `align-item-center`
+
+## 6. Footer
+
+### Html
+
+- add footer `h4`
+- add `Groupe`
+
+### Css
+
+- add class `footer-info`
+- add `text-center`
