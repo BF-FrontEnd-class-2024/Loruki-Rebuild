@@ -270,3 +270,54 @@ img {
 .grid-3 img {
   width: 65px;
 }
+
+.py-2 {
+  padding: 1.5rem 0;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+.bg-primary {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+.cloud .grid {
+  grid-template-columns: 4fr 3fr;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.lg {
+  font-size: 3rem;
+}
+
+.bg-primary .text-center h2 {
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+.my-1 {
+  margin: 1rem 0;
+}
+
+.lead {
+  font-size: 20px;
+}
+
+.bg-primary a {
+  color: #fff;
+}
+
+.btn-dark {
+  background-color: var(--dark-color);
+}
+
+.bg-primary img {
+  width: 350px;
+}
