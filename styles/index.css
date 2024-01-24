@@ -99,3 +99,100 @@ header .container .logo {
   font-weight: 300;
   font-size: 26px;
 }
+/* stylelint-disable-next-line rule-empty-line-before */
+.showcase {
+  height: 400px;
+  background-color: var(--primary-color);
+  color: #fff;
+}
+/* stylelint-disable-next-line rule-empty-line-before */
+.showcase .container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.showcase-text h1 {
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+.showcase p {
+  margin: 20px 0;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: 300;
+}
+
+.btn-outline {
+  background-color: transparent;
+  border: 1px solid #fff;
+  padding: 15px !important;
+}
+
+.btn:hover {
+  transform: scale(0.98);
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 30px;
+  cursor: pointer;
+  background: var(--primary-color);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.showcase-form {
+  height: 350px;
+  width: 400px;
+  padding: 40px;
+}
+
+.card {
+  background-color: #fff;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  margin: 10px;
+}
+
+.card h2 {
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 10px 0;
+}
+
+.showcase-form .form-ctrl {
+  margin: 30px 0;
+}
+
+.showcase-form input[type="text"] {
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid #b4becb;
+  width: 100%;
+  padding: 3px;
+  font-size: 16px;
+}
+
+.showcase-form input[type="email"] {
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid #b4becb;
+  width: 100%;
+  padding: 3px;
+  font-size: 16px;
+}
+
+.btn-p {
+  background-color: var(--primary-color);
+  color: #fff;
+  outline: none;
+  border: none;
+}
