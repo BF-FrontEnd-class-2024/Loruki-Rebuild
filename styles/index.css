@@ -347,3 +347,40 @@ img {
 .languages .card:hover {
   transform: translateY(-15px);
 }
+
+.py-5 {
+  padding: 4rem 0;
+}
+
+.bg-dark {
+  background-color: var(--dark-color);
+  color: #fff;
+}
+
+.bg-dark a {
+  color: #fff;
+}
+
+.footer .social a {
+  margin: 0 10px;
+}
+
+.fa-brands {
+  font-weight: 400;
+  font-size: 2em;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
+
+.fa-github:hover {
+  color: #000;
+}
