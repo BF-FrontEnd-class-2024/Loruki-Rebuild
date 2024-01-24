@@ -22,8 +22,10 @@
     "Loruki",
     "Sowmya",
     "Rodica",
-    "Sowmya" ,
-    "Solopreneur"
+    "Sowmya",
+    "Solopreneur",
+    "deployment",
+    "Deployments"
   ],
   "ignorePaths": [
     "node_modules/**",
