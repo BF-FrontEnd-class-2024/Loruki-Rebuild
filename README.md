@@ -37,7 +37,6 @@ A simple website to help you find the best cloud hosting services.
 ## Setup
 
 - Clone the Repo
-  
 - `npm run install`
 
 ## Code Examples

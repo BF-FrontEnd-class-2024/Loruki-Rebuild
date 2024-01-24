@@ -1,3 +1,4 @@
+/* stylelint-disable comment-empty-line-before */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -302,10 +303,6 @@ img {
   margin: 10px 0;
 }
 
-.my-1 {
-  margin: 1rem 0;
-}
-
 .lead {
   font-size: 20px;
 }
@@ -320,4 +317,34 @@ img {
 
 .bg-primary img {
   width: 350px;
+}
+/* Language Support */
+.md {
+  font-size: 2rem;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages .card {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.2s ease-in;
+}
+
+.languages .card h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.languages .card:hover {
+  transform: translateY(-15px);
 }
